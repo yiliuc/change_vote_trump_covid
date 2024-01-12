@@ -6,6 +6,8 @@ This repo contains paper regarding the elections with COVID-19 from the course E
 
 In terms of data, this main data used in this paper is "Elections with COVID" from Kaggle. In the final project, we merged another four data sets from American Community Survey regarding the Demographic (DP03) and Economic(DP05) data in both 2016 and 2020 using API. The raw data are stored in `input/data`
 
+This paper and the paper from STA497 (`COVID_US_county`) are the preliminary/prior research of the final paper in STA497 (`covid_and_trump_loss`).
+
 ## File Structure
 
 The repo is structured as:
