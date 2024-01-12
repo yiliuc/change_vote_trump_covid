@@ -1,4 +1,4 @@
-# ECO250: Did COVID-19 Defeat Donald Trump? An Electoral Analysis for the 2020 US Election
+# Did COVID-19 Defeat Donald Trump? An Electoral Analysis for the 2020 US Election (ECO250)
 
 ## Overview
 
